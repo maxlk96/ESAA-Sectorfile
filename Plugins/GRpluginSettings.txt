@@ -34,6 +34,8 @@ Shortcut_Map_Xfr_Key=5,0x46
 Shortcut_Map_Target=5,MAIN WINDOW\PUSHBACK
 Shortcut_Map_Xfr_Key=6,0x4B
 Shortcut_Map_Target=6,MAIN WINDOW\TAXIWAY
+Shortcut_Map_Xfr_Key=7,0x44
+Shortcut_Map_Target=7,MAIN WINDOW\DROP POINTS
 
 [ESCF]
 Airport_Runway_End=19:N058.24.29.979:E015.31.46.816
